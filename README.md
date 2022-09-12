@@ -30,9 +30,9 @@
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/CasperDoesCode"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CasperDoesCode" /></a><a href="https://ko-fi.com/CasperDoesCoding"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="CasperDoesCoding" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/CasperDoesCode"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CasperDoesCode" /></a><a href="https://ko-fi.com/CasperDoesCoding"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="CasperDoesCoding" /></a></p><br><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=casperdoescoding&show_icons=true&locale=en&layout=compact" alt="casperdoescoding" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=casperdoescoding&show_icons=true&locale=en&layout=compact" alt="casperdoescoding" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=casperdoescoding&show_icons=true&locale=en" alt="casperdoescoding" /></p>
 
