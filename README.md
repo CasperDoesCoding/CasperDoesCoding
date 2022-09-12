@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm CasperDoesCoding</h1>
 <h3 align="center">Python developer from Sweden currently studying from home.</h3>
 
+<p align="left"> <a href="https://twitter.com/casperdoescode" target="blank"><img src="https://img.shields.io/twitter/follow/casperdoescode?logo=twitter&style=for-the-badge" alt="casperdoescode" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=casperdoescoding&label=Profile%20views&color=0e75b6&style=flat" alt="casperdoescoding" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=casperdoescoding" alt="casperdoescoding" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/casperdoescode" target="blank"><img src="https://img.shields.io/twitter/follow/casperdoescode?logo=twitter&style=for-the-badge" alt="casperdoescode" /></a> </p>
-
-- 🔭 I’m currently working on [League Of Legends account manager](https://github.com/CasperDoesCoding/account-manager)
+- 🔭 I’m currently working on [league of legends account manager](https://github.com/CasperDoesCoding/league-account-manager)
 
 - 🌱 I’m currently learning **Python, TypeScript, HTML, CSS, NodeJS, C#**
 
