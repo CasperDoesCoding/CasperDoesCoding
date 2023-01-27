@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **any of my public projects :)**
 
-- 📫 How to reach me **pandaa.casper@gmail.com**
+- 📫 You can reach me at my email **pandaa.casper@gmail.com** or my discord **CasperDoesCoding#0001**
 
-- ⚡ Fun fact **I procrastinate a lot but when I get to work I work really fast..**
+- ⚡ Fun fact **I've been coding for over a decade now, I think my first lines of code were written when I was 7 years old. Where I was following a tutorial on Youtube on how to make a game in Unity.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
