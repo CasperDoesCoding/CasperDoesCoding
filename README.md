@@ -27,6 +27,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=andrey-helldar&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true"alt="casperdoescoding"/></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=casperdoescoding&show_icons=true&locale=en&layout=compact" alt="casperdoescoding" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=casperdoescoding&show_icons=true&locale=en" alt="casperdoescoding" /></p>
