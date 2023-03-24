@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=casperdoescoding&label=Profile%20views&color=0e75b6&style=flat" alt="casperdoescoding" /> </p>
 
 
-- 🔭 I’m currently working on [league of legends account manager](https://github.com/CasperDoesCoding/league-account-manager)
+- 🔭 I’m currently working on a open source discord bot, however it's not in a stage where I can release it yet.
 
 - 🌱 I’m currently learning **Python, TypeScript, HTML, CSS, NodeJS, C#**
 
