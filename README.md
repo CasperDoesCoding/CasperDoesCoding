@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **any of my public projects :)**
 
-- 📫 You can reach me at my email **pandaa.casper@gmail.com** or my discord **CasperDoesCoding#0001**
+- 📫 You can reach me at my email **pandaa.casper@gmail.com*
 
 - ⚡ Fun fact **I've been coding for over a decade now, I think my first lines of code were written when I was 7 years old. Where I was following a tutorial on Youtube on how to make a game in Unity.**
 
