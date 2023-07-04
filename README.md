@@ -10,11 +10,9 @@
 
 - 👨‍💻 All of my public projects are always available at my [github](https://www.github.com/casperdoescoding)
 
-- 💬 Ask me about **any of my public projects :)**
+- 💬 If you have any questions about any of my projects or if you need help with your project you can always contact me on discord.
 
-- 📫 You can reach me at my email **pandaa.casper@gmail.com*
-
-- ⚡ Fun fact **I've been coding for over a decade now, I think my first lines of code were written when I was 7 years old. Where I was following a tutorial on Youtube on how to make a game in Unity.**
+- 📫 I change my discord tag frequently so I have created a [server](https://discord.gg/F7URqspcRs) where you can always find my account. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,6 +25,5 @@
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/CasperDoesCode"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CasperDoesCode" /></a><a href="https://ko-fi.com/CasperDoesCoding"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="CasperDoesCoding" /></a></p><br><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=casperdoescoding&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true"alt="casperdoescoding"/></p>
