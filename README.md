@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python, TypeScript, HTML, CSS, NodeJS, C#**
 
-- 👨‍💻 All of my public projects are always available at [my github](my github)
+- 👨‍💻 All of my public projects are always available at [https://www.github.com/casperdoescoding](my github)
 
 - 💬 Ask me about **any of my public projects :)**
 
