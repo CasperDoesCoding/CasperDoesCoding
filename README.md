@@ -1,8 +1,5 @@
 <h1 align="center">Hey, I'm Casper!</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=casperdoescoding&label=Profile%20views&color=0e75b6&style=flat" alt="casperdoescoding" /> </p>
-
-
 - 🔭 I’m currently working on a open source discord bot, however it's not in a stage where I can release it yet.
 
 - 🌱 I’m currently learning **Python, TypeScript, HTML, CSS, NodeJS, C#**
@@ -26,3 +23,4 @@
 <h3 align="left">Support:</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=casperdoescoding&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true"alt="casperdoescoding"/></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=casperdoescoding&label=Profile%20views&color=0e75b6&style=flat" alt="casperdoescoding" /> </p>
