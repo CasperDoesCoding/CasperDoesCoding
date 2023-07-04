@@ -1,6 +1,5 @@
 <h1 align="center">Hey, I'm Casper!</h1>
 
-<p align="left"> <a href="https://twitter.com/casperdoescode" target="blank"><img src="https://img.shields.io/twitter/follow/casperdoescode?logo=twitter&style=for-the-badge" alt="casperdoescode" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=casperdoescoding&label=Profile%20views&color=0e75b6&style=flat" alt="casperdoescoding" /> </p>
 
 
