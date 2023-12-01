@@ -1,14 +1,10 @@
 <h1 align="center">Hey, I'm Casper!</h1>
 
-- 🔭 I’m currently working on a open source discord bot, however it's not in a stage where I can release it yet.
-
-- 🌱 I’m currently learning **Python, TypeScript, HTML, CSS, NodeJS, C#**
+- 🔭 Currently not working on anything
 
 - 👨‍💻 All of my public projects are always available at my [github](https://www.github.com/casperdoescoding)
 
-- 💬 If you have any questions about any of my projects or if you need help with your project you can always contact me on discord.
-
-- 📫 I change my discord tag frequently so I have created a [server](https://discord.gg/F7URqspcRs) where you can always find my account. 
+- 💬 If you have any questions about any of my projects open an issue on it.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
