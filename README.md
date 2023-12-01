@@ -2,8 +2,6 @@
 
 - 🔭 Currently not working on anything
 
-- 👨‍💻 All of my public projects are always available at my [github](https://www.github.com/casperdoescoding)
-
 - 💬 If you have any questions about any of my projects open an issue on it.
 
 <h3 align="left">Connect with me:</h3>
